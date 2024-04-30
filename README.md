@@ -1,5 +1,5 @@
-## Oi oi, meu nome é João Victor e sou um aspirante a Dev Front-end :D
-🌱Atualmente aprendendo ReactJ
+## Oi oi, meu nome é João Victor e sou um Dev Front-end buscando novas oportunidades de crescimento profissional! :D
+🌱Atualmente aprendendo NextJS
 <div align="center">
   <a href="https://github.com/JoaoVBCarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVBCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
